@@ -20,7 +20,7 @@
 
 ### Como instalar a ferramenta?
 * Instalação:
-  ##### Criar um projeto Java em uma IDE de preferência e importar o código fonte deste repositório
+  ##### Criar um projeto Java em uma IDE de preferência, criar dois pacotes nomeados de acordo com os deste repostitório e importar o código fonte respectivo
 
 ### Importante!
 * Nota:
